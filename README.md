@@ -29,7 +29,7 @@ My name is Yash and I'm a Software Engineer who is passionate about building tec
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelyashme&show_icons=true&locale=en&layout=compact&theme=radical" alt="patelyashme" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelyashme&locale=en&layout=compact&theme=radical" alt="patelyashme" /></p>
 
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelyashme&theme=radical" alt="arunsridher" /></p>
